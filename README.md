@@ -1,9 +1,7 @@
 # Attiny85-binary-thermometer
-/* ATtiny85V Binary Flashing Thermometer
- *  
- *  Jinseok Jeon (JeonLab)
- *  http://jeonlab.wordpress.com
- *  
+
+See more detail in my blog: https://jeonlab.wordpress.com/2019/03/06/attiny85v-binary-thermometer-with-auto-power-off/#comment-1807
+
  *  This is a modified version of the Flashing Thermometer that is originally
  *  made by David Johnson-Davies - http://www.technoblogy.com/show?ZSX
  *  
@@ -23,8 +21,3 @@
  *    - 3x 1k resistors
  *    - 1x 0.1uF cap
  *    - 1x push button switch
- *    
- *  CC BY 4.0
- *  Licensed under a Creative Commons Attribution 4.0 International license:
- *  http://creativecommons.org/licenses/by/4.0/
-*/
